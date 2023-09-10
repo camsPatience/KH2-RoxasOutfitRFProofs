@@ -1,0 +1,151 @@
+title: Roxas Outfit for Sora Re:Fined Support
+originalAuthor: Meeblob
+description: Mod by Meeblob | Gives TieuLink's Roxas outfit sor Sora support for Re:Fined HUD proofs. Place ABOVE Re:Fined and the Roxas outfit!
+game: kh2
+specifications: 0
+dependencies: 
+assets:
+- name: remastered\obj\P_EX100.a.us\-8.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100.a.us\-8.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX100_BTLF.a.us\-4.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_BTLF.a.us\-4.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX100_KH1F.a.us\-9.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_KH1F.a.us\-9.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX100_MAGF.a.us\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_MAGF.a.us\-2.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX100_TRIF.a.us\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_TRIF.a.us\-5.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: remastered\obj\P_EX100_ULTF.a.us\-10.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  multi: 
+  source:
+  - name: remastered\obj\P_EX100_ULTF.a.us\-10.dds
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
